@@ -1,6 +1,6 @@
 # E-Commerce SQL Data Analysis
 
-**DecodeLabs TalentNext 2026 — Data Analytics Internship | Project 3**
+**DecodeLabs — Data Analytics Internship | Project 3**
 
 A SQL-driven analysis of 1,200 e-commerce orders (Jan 2023 – Jun 2025), using SQLite to filter, group, and aggregate raw transactional data into business-ready insights — covering `SELECT`, `WHERE`, `ORDER BY`, `GROUP BY`, `HAVING`, and percentage-contribution analysis.
 
